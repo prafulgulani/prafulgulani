@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hey 👋! I'm Praful Gulani
+🎓 **Computer Science Student** at Goldsmiths, University of London  
+🤖 **Passionate about AI, Machine Learning & Software Development**  
 
-<!--
-**prafulgulani/prafulgulani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Skills
+- 💻 **Programming Languages:** Python, C++, SQL  
+- 📚 **Libraries and Frameworks:** NumPy, pandas, Matplotlib, seaborn, Scikit-learn, TensorFlow, PyTorch
+- 🔍 **Interested in:** Deep Learning, Natural Language Processing, Generative AI
+- 📂 **Databases:** SQL, MongoDB
+- 🖥️ **Software Development:** Git, GitHub, WSL (Linux), Visual Studio, PyCharm, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Currently Learning
+- Generative AI (Large Language Models, Prompt Engineering, Agents etc.)
+- JAX & Flax for building efficient deep learning models  
+
+---
+
+## 🚀 Looking For
+- Internship or full-time roles in software development or ML  
+- Open-source opportunities to collaborate on ML tools or research
+
+---
+
+## 📫 Let’s Connect!
+🔗 [**LinkedIn**](https://www.linkedin.com/in/prafulgulani)  
+📨 [**Email**](mailto:prafulgulani555@gmail.com)
+
+---
+
+## 🔗 Other Links
+- 📝 [**Medium**](https://medium.com/@prafulgulani)  
+- 🧠 [**Kaggle**](https://www.kaggle.com/prafulgulani)  
+- 🛠 [**LeetCode**](https://leetcode.com/prafulgulani)
