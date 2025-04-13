@@ -26,8 +26,8 @@
 ---
 
 ## 📫 Let’s Connect!
-🔗 [**LinkedIn**](https://www.linkedin.com/in/prafulgulani)  
-📨 [**Email**](mailto:prafulgulani555@gmail.com)
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/prafulgulani)  
+- 📨 [**Email**](mailto:prafulgulani555@gmail.com)
 
 ---
 
