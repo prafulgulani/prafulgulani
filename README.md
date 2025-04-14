@@ -9,7 +9,7 @@
 - 📚 **Libraries and Frameworks:** NumPy, pandas, Matplotlib, seaborn, Scikit-learn, TensorFlow, PyTorch
 - 🔍 **Interested in:** Deep Learning, Natural Language Processing, Generative AI
 - 📂 **Databases:** SQL, MongoDB
-- 🖥️ **Software Development:** Git, GitHub, WSL (Linux), Visual Studio, PyCharm, Jupyter Notebook
+- 🖥️ **Developer Tools:** Git, GitHub, WSL (Linux), Visual Studio, PyCharm, Jupyter Notebook
 
 ---
 
