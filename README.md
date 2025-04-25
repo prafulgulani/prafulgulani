@@ -13,12 +13,6 @@
 
 ---
 
-## 📚 Currently Learning
-- Generative AI (Large Language Models, Prompt Engineering, Agents etc.)
-- JAX & Flax for building efficient deep learning models  
-
----
-
 ## 🚀 Looking For
 - Internship or full-time roles in software development or ML  
 - Open-source opportunities to collaborate on ML tools or research
