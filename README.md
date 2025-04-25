@@ -28,4 +28,3 @@
 ## 🔗 Other Links
 - 📝 [**Medium**](https://medium.com/@prafulgulani)  
 - 🧠 [**Kaggle**](https://www.kaggle.com/prafulgulani)  
-- 🛠 [**LeetCode**](https://leetcode.com/prafulgulani)
