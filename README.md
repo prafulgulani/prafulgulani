@@ -1,21 +1,18 @@
 ## Hey 👋! I'm Praful Gulani
-🎓 **Computer Science Student** at Goldsmiths, University of London  
-🤖 **Passionate about AI, Machine Learning & Software Development**  
+
+👨🏻‍💻 **Junior Software Developer** at Deepiotics
+🎓 **BSc Computer Science Graduate** from Goldsmiths, University of London
 
 ---
 
 ## 🛠 Tech Stack & Skills
-- 💻 **Programming Languages:** Python, C++, SQL  
+- 💻 **Programming Languages:** Python, C++, SQL, JavaScript
+- 🌐 **Web Technologies:** HTML, CSS, Bootstrap, Django
 - 📚 **Libraries and Frameworks:** NumPy, pandas, Matplotlib, seaborn, Scikit-learn, TensorFlow, PyTorch
-- 🔍 **Interested in:** Deep Learning, Natural Language Processing, Generative AI
-- 📂 **Databases:** SQL, MongoDB
+- 📂 **Databases:** MySQL, SQLite MongoDB
 - 🖥️ **Developer Tools:** Git, GitHub, WSL (Linux), Visual Studio, PyCharm, Jupyter Notebook
-
----
-
-## 🚀 Looking For
-- Internship or full-time roles in software development or ML  
-- Open-source opportunities to collaborate on ML tools or research
+- 📖 **Concepts:** Data Structures and Algorithms, Object-Oriented Programming, Artificial Intelligence, Machine Learning,
+- Deep Learning, Natural Language Processing, Relational Databases, Web Development
 
 ---
 
