@@ -1,6 +1,6 @@
 ## Hey 👋! I'm Praful Gulani
 
-👨🏻‍💻 **Junior Software Developer** at Deepiotics
+👨🏻‍💻 **Junior Software Developer** at Deepiotics <br>
 🎓 **BSc Computer Science Graduate** from Goldsmiths, University of London
 
 ---
