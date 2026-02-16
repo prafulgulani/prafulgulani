@@ -23,5 +23,6 @@
 ---
 
 ## 🔗 Other Links
-- 📝 [**Medium**](https://medium.com/@prafulgulani)  
+- 🧩 [**Leetcode**](https://leetcode.com/u/prafulgulani/)
 - 🧠 [**Kaggle**](https://www.kaggle.com/prafulgulani)  
+- 📝 [**Medium**](https://medium.com/@prafulgulani)  
