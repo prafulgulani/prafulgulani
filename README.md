@@ -14,7 +14,7 @@
   * Co-authored three Django Enhancement Proposals (DEP): [Feature Flags Framework (DEP PR #117)](https://github.com/django/deps/pull/117), [Experimental API Framework (DEP PR #114)](https://github.com/django/deps/pull/114), and [Package Extras (DEP PR #118)](https://github.com/django/deps/pull/118).
 
 * **Open Source Contributions**
-  * [**All Open Source Contributions**](https://prafulgulani.vercel.app/#contributions) (PRs across Django and Matplotlib) 
+  * [**All Open Source Contributions**](https://prafulgulani.vercel.app/#contributions) 
 
 * **Deepiotics** | Junior Software Developer
   * Built full-stack web applications featuring custom AI agents and chatbots, managing end-to-end CI/CD and deployment.
