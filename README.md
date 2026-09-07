@@ -25,7 +25,7 @@
 - 💻 **Programming Languages:** Python, JavaScript, TypeScript, C++, SQL
 - ⚙️ **Backend:** Django, FastAPI
 - 🎨 **Frontend:** React, Vite, Tailwind CSS, HTML/CSS
-- 🤖 **AI & Agentic Systems:** LangChain, LangGraph, FAISS, Sentence-Transformers
+- 🤖 **AI & Agentic Systems:** LangChain, LangGraph, FAISS, Sentence-Transformers, Hugging Face
 - 📊 **Machine Learning & Data:** PyTorch, TensorFlow, Scikit-learn, pandas, NumPy, Matplotlib, seaborn
 - 🗄️ **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
 - 🛠️ **DevOps & Tools:** Docker, Git, GitHub, Linux
